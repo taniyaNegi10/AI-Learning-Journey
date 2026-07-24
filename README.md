@@ -2,7 +2,7 @@
 
 Welcome to my AI Learning Journey!
 
-I'm a Computer Science student .I'm documenting my journey of learning and building AI applications using modern LLM technologies.". This repository documents my progress as I learn Large Language Models (LLMs), Prompt Engineering, AI Agents, Retrieval-Augmented Generation (RAG), and other modern AI concepts by building projects and writing code.
+I'm a Computer Science student .I'm documenting my journey of learning and building AI applications using modern LLM technologies. This repository documents my progress as I learn Large Language Models (LLMs), Prompt Engineering, AI Agents, Retrieval-Augmented Generation (RAG), and other modern AI concepts by building projects and writing code.
 
 ---
 
