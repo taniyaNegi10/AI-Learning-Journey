@@ -1,34 +1,46 @@
 # 🤖 AI Learning Journey
 
-Welcome to my AI Learning Journey!
+> **Learning AI by Building Real Projects**
 
-I'm a Computer Science student .I'm documenting my journey of learning and building AI applications using modern LLM technologies. This repository documents my progress as I learn Large Language Models (LLMs), Prompt Engineering, AI Agents, Retrieval-Augmented Generation (RAG), and other modern AI concepts by building projects and writing code.
+Welcome to my AI Learning Journey! 👋
 
----
-
-## 🎯 Goal
-
-My goal is to become an AI Engineer by consistently learning new concepts and applying them through hands-on projects.
+I'm a Computer Science student documenting my journey of learning and building AI applications using modern AI technologies. Instead of only watching tutorials, I learn by writing code, experimenting with concepts, and building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Goal
+
+My goal is to become an **AI Engineer** by consistently learning new concepts and applying them through hands-on projects.
+
+---
+
+# 📍 Current Focus
+
+- 🔄 Learning AI Agents
+- 🚀 Improving AI Resume Screener
+- 📧 Enhancing Email Spam Detection Project
+- 📚 Practicing Prompt Engineering
+
+---
+
+# 🛠️ Tech Stack
 
 - Python
 - Git & GitHub
 - APIs
-- LLMs
+- Large Language Models (LLMs)
 - Prompt Engineering
 - AI Agents
 - Django
 - Scikit-learn
+- Pandas
 
 ---
 
-## 📚 Learning Roadmap
+# 📚 Learning Roadmap
 
 | Status | Topic |
-|---------|-------|
+|:------:|-------|
 | ✅ | First LLM API Call |
 | ✅ | System Role & Temperature |
 | ✅ | Tokens |
@@ -36,40 +48,95 @@ My goal is to become an AI Engineer by consistently learning new concepts and ap
 | ✅ | Prompt Engineering |
 | 🔄 | AI Agents |
 | ⏳ | Tool Calling |
-| ⏳ | RAG |
+| ⏳ | Retrieval-Augmented Generation (RAG) |
 | ⏳ | Vector Databases |
-| ⏳ | MCP |
-| ⏳ | Deployment |
+| ⏳ | Model Context Protocol (MCP) |
+| ⏳ | AI Deployment |
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 AI-Learning-Journey/
+│
+├── README.md
 │
 ├── 01_First_LLM_Call/
 ├── 02_System_Role_and_Temperature/
 ├── 03_Tokens/
 ├── 04_Structured_Output/
 ├── 05_Prompt_Engineering/
+│
+└── More topics will be added as I continue learning...
 ```
 
 ---
 
-## 📈 Learning Philosophy
+# 🚀 Projects
 
-I believe the best way to learn AI is by building projects, experimenting with code, and documenting my understanding. This repository reflects my continuous learning journey.
+Alongside my learning journey, I'm also building complete AI projects.
+
+### ✅ AI Resume Screener
+An AI-powered application that analyzes resumes against job descriptions and provides structured feedback.
+
+### ✅ Email Spam Detection
+A Machine Learning application that classifies emails as Spam or Ham using Scikit-learn.
+
+More AI projects will be added as I continue learning.
 
 ---
 
-## 🚀 Projects
+# 📖 Learning Philosophy
 
-- AI Resume Screener
-- Email Spam Detection
+I believe that the best way to learn AI is by:
 
-More projects will be added as I continue learning.
+- 📚 Understanding the concept
+- 💻 Writing the code myself
+- 🧪 Experimenting with different approaches
+- 🚀 Applying the concept in projects
+- 📝 Documenting what I learned
+
+This repository represents my continuous learning journey.
 
 ---
 
-⭐ Thank you for visiting my repository!
+# 📅 Progress Timeline
+
+### July 2026
+- ✅ First LLM API Call
+- ✅ System Role & Temperature
+- ✅ Tokens
+- ✅ Structured Output
+- ✅ Prompt Engineering
+- 🔄 AI Agents
+
+### Upcoming
+
+- ⏳ Tool Calling
+- ⏳ RAG
+- ⏳ Vector Databases
+- ⏳ MCP
+- ⏳ AI Deployment
+
+---
+
+# 🌱 Why This Repository?
+
+I created this repository to:
+
+- Track my AI learning progress
+- Practice modern AI concepts
+- Build real-world projects
+- Share my learning journey
+- Continuously improve as an AI Engineer
+
+---
+
+# ⭐ Thank You
+
+Thank you for visiting my repository.
+
+If you're a recruiter, developer, or fellow learner, I hope this repository gives you a clear picture of my learning journey and technical growth.
+
+Happy Learning! 🚀
