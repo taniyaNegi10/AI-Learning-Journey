@@ -51,12 +51,6 @@ python3 main.py
 
 ---
 
-## 📸 Output
-
-![LLM Output](images/output.png)
-
----
-
 ## 📖 What I Learned
 
 - What an API is
