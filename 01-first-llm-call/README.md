@@ -1,142 +1,72 @@
-# 🤖 AI Learning Journey
+# 🚀 Day 1 – First LLM API Call using Groq
 
-> **Learning AI by Building Real Projects**
+## 📌 Objective
 
-Welcome to my AI Learning Journey! 👋
+The goal of this project is to make my first successful API call to a Large Language Model using the Groq API and Python.
 
-I'm a Computer Science student documenting my journey of learning and building AI applications using modern AI technologies. Instead of only watching tutorials, I learn by writing code, experimenting with concepts, and building real-world projects.
-
----
-
-# 🎯 Goal
-
-My goal is to become an **AI Engineer** by consistently learning new concepts and applying them through hands-on projects.
+This marks the beginning of my AI Engineering learning journey.
 
 ---
 
-# 📍 Current Focus
-
-- 🔄 Learning AI Agents
-- 🚀 Improving AI Resume Screener
-- 📧 Enhancing Email Spam Detection Project
-- 📚 Practicing Prompt Engineering
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 - Python
-- Git & GitHub
-- APIs
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI Agents
-- Django
-- Scikit-learn
-- Pandas
+- Groq API
+- python-dotenv
+- VS Code
 
 ---
 
-# 📚 Learning Roadmap
-
-| Status | Topic |
-|:------:|-------|
-| ✅ | First LLM API Call |
-| ✅ | System Role & Temperature |
-| ✅ | Tokens |
-| ✅ | Structured Output |
-| ✅ | Prompt Engineering |
-| 🔄 | AI Agents |
-| ⏳ | Tool Calling |
-| ⏳ | Retrieval-Augmented Generation (RAG) |
-| ⏳ | Vector Databases |
-| ⏳ | Model Context Protocol (MCP) |
-| ⏳ | AI Deployment |
-
----
-
-# 📂 Repository Structure
+## 📂 Project Structure
 
 ```
-AI-Learning-Journey/
+01-first-llm-call/
 │
-├── README.md
-│
-├── 01_First_LLM_Call/
-├── 02_System_Role_and_Temperature/
-├── 03_Tokens/
-├── 04_Structured_Output/
-├── 05_Prompt_Engineering/
-│
-└── More topics will be added as I continue learning...
+├── images/
+│   └── output.png
+├── .env
+├── main.py
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-# 🚀 Projects
+## 💻 Code Overview
 
-Alongside my learning journey, I'm also building complete AI projects.
+The program:
 
-### ✅ AI Resume Screener
-An AI-powered application that analyzes resumes against job descriptions and provides structured feedback.
-
-### ✅ Email Spam Detection
-A Machine Learning application that classifies emails as Spam or Ham using Scikit-learn.
-
-More AI projects will be added as I continue learning.
+- Loads the API key from the `.env` file.
+- Creates a Groq client.
+- Sends a prompt to the LLM.
+- Prints the generated response.
 
 ---
 
-# 📖 Learning Philosophy
+## ▶️ How to Run
 
-I believe that the best way to learn AI is by:
-
-- 📚 Understanding the concept
-- 💻 Writing the code myself
-- 🧪 Experimenting with different approaches
-- 🚀 Applying the concept in projects
-- 📝 Documenting what I learned
-
-This repository represents my continuous learning journey.
+```bash
+python3 main.py
+```
 
 ---
 
-# 📅 Progress Timeline
+## 📸 Output
 
-### July 2026
-- ✅ First LLM API Call
-- ✅ System Role & Temperature
-- ✅ Tokens
-- ✅ Structured Output
-- ✅ Prompt Engineering
-- 🔄 AI Agents
-
-### Upcoming
-
-- ⏳ Tool Calling
-- ⏳ RAG
-- ⏳ Vector Databases
-- ⏳ MCP
-- ⏳ AI Deployment
+![LLM Output](images/output.png)
 
 ---
 
-# 🌱 Why This Repository?
+## 📖 What I Learned
 
-I created this repository to:
-
-- Track my AI learning progress
-- Practice modern AI concepts
-- Build real-world projects
-- Share my learning journey
-- Continuously improve as an AI Engineer
+- What an API is
+- How to use an API key securely
+- Environment variables with `.env`
+- Making the first LLM API request
+- Reading AI responses in Python
 
 ---
 
-# ⭐ Thank You
+## 🎯 Key Takeaway
 
-Thank you for visiting my repository.
-
-If you're a recruiter, developer, or fellow learner, I hope this repository gives you a clear picture of my learning journey and technical growth.
-
-Happy Learning! 🚀
+This project helped me understand how applications communicate with Large Language Models using APIs. It is the foundation for all future AI projects.
