@@ -21,9 +21,9 @@ This marks the beginning of my AI Engineering learning journey.
 
 ```
 01-first-llm-call/
-│
-├── images/
-│   └── output.png
+
+
+│   
 ├── .env
 ├── main.py
 ├── requirements.txt
