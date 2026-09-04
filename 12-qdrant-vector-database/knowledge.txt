@@ -1,0 +1,31 @@
+Python is a high-level programming language widely used for web development, automation, data science, artificial intelligence, and machine learning.
+
+Machine learning is a branch of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions.
+
+Artificial intelligence is the field of creating systems that can perform tasks that normally require human intelligence, such as understanding language, recognizing images, reasoning, and making decisions.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Natural Language Processing, or NLP, is a field of artificial intelligence that focuses on enabling computers to understand, process, and generate human language.
+
+Large Language Models, or LLMs, are AI models trained on large amounts of text that can understand and generate human-like language.
+
+Retrieval Augmented Generation, or RAG, combines information retrieval with language generation. A RAG system first retrieves relevant information from a knowledge base and then provides that information to a language model to generate an answer.
+
+Vector databases store numerical representations of data called vectors. They are commonly used for semantic search, recommendation systems, and retrieval augmented generation.
+
+An embedding is a numerical representation of text, images, or other data. Similar pieces of information have embeddings that are close together in vector space.
+
+Qdrant is a vector database designed for storing, indexing, and searching vector embeddings. It can be used for semantic search and retrieval augmented generation applications.
+
+A collection in Qdrant is a container where points are stored. Points contain vectors and can also contain payload data.
+
+A Qdrant point consists of an ID, a vector, and optional payload. The payload can store additional information such as the original text, topic, title, or metadata.
+
+Semantic search finds information based on meaning rather than only matching exact keywords. It uses vector embeddings to find information that is semantically similar to a query.
+
+Cosine similarity measures how similar two vectors are based on the angle between them. It is commonly used to compare text embeddings.
+
+Payload in Qdrant is additional data stored alongside a vector. For example, a vector can have a payload containing the original text and its topic.
+
+A RAG pipeline commonly contains several steps: loading documents, splitting documents into chunks, creating embeddings, storing embeddings in a vector database, retrieving relevant chunks, and giving the retrieved information to an LLM.
