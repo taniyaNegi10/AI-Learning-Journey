@@ -264,4 +264,3 @@ Add conversation history
 Build a frontend chat interface
 Deploy the complete application
 
-The next major step is to connect the retrieved tenant-specific context to an LLM and generate answers based on that context.
