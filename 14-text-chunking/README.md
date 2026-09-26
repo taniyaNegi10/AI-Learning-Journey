@@ -168,11 +168,4 @@ It is especially useful when working with documents that contain different level
 Note: Recursive chunking uses splitting rules; it does not actually understand the semantic meaning of the text.
 
 
-## 📊 Chunking Comparison
-
-| Chunking Method | Main Idea | Advantage | Limitation |
-|---|---|---|---|
-| 🔹 Fixed-Size | Split based on target size | Simple and predictable | Can split sentences or ideas |
-| 🔹 Paragraph | Uses paragraph boundaries | Preserves paragraph structure | Chunks can become larger |
-| 🔹 Recursive | Uses multiple text boundaries | Can create more natural chunks | More complex than basic splitting |
 
